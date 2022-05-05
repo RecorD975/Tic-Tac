@@ -1,3 +1,6 @@
 # Tic-Tac
-Tic-Tac game on Python(sockets)
-To launch the program do on the first terminal "python3 server.py", do on the second terminal "python3 client.py", further setting are given in the program
+Игра крестики-нолики на Python(sockets)
+Для запуска игры в первом в одном терминале выполните команду "python3 server.py"
+Затем в первую очередь запустите "python3 client1.py"
+Далее python3 "client2.py"
+Дальнейшие инструкции будут в программах.
